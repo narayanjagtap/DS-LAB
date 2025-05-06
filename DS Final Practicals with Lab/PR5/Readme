@@ -1,0 +1,30 @@
+1] javac Tring.java 
+2] java Tring 
+
+
+Enter the number of nodes: 5
+ 0 1 2 3 4 0
+Enter sender: 1
+Enter receiver: 3
+Enter Data: aman
+Token passing: 0-> 1
+Sender 1 sending data: aman
+Data aman forwarded by 2
+Receiver 3 received data: aman
+Enter sender: 0
+Enter receiver: 1
+Enter Data: Sizuka
+Token passing: 1-> 2-> 3-> 4-> 0
+Sender 0 sending data: Sizuka
+Receiver 1 received data: Sizuka
+Enter sender: 1
+Enter receiver: 4
+Enter Data: akash
+Token passing: 0-> 1
+Sender 1 sending data: akash
+Data akash forwarded by 2
+Data akash forwarded by 3
+Receiver 4 received data: akash
+Enter sender: 
+
+

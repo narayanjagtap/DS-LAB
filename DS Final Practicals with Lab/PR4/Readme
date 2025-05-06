@@ -1,0 +1,18 @@
+1] javac BerkeleyAlgorithm.java 
+2] java BerkeleyAlgorithm 
+
+Enter the number of nodes: 5
+Enter the time value of node 0: 1
+Enter the time value of node 1: 2
+Enter the time value of node 2: 3
+Enter the time value of node 3: 4
+Enter the time value of node 4: 5
+Average time: 3
+Time differences: [2, 1, 0, -1, -2]
+Enter the time offset for the time server: 
+5
+Adjusted time for node 0: 8
+Adjusted time for node 1: 8
+Adjusted time for node 2: 8
+Adjusted time for node 3: 8
+Adjusted time for node 4: 8

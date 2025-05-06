@@ -1,0 +1,22 @@
+Terminal-1
+1] javac *.java
+2] rmic AddServerImpl
+
+
+
+
+Terminal-2
+1] rmiregistry
+
+
+
+
+
+Terminal-3
+1] java AddServer
+
+
+
+
+Terminal-4
+1] java AddClient 127.0.0.0 9 8

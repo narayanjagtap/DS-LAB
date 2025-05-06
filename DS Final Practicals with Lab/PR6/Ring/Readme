@@ -1,0 +1,83 @@
+1] javac Ring.java 
+2] java Ring 
+
+Ring Algorithm
+1. Create processes
+2. Display processes
+3. Up a process
+4. Down a process
+5. Run election algorithm
+6. Exit Program
+Enter your choice:- 1
+Enter the total number of processes:- 4
+P1 created.
+P2 created.
+P3 created.
+P4 created.
+P4 is the coordinator
+Ring Algorithm
+1. Create processes
+2. Display processes
+3. Up a process
+4. Down a process
+5. Run election algorithm
+6. Exit Program
+Enter your choice:- 2
+P1 is up.
+P2 is up.
+P3 is up.
+P4 is up.
+P4 is the coordinator
+Ring Algorithm
+1. Create processes
+2. Display processes
+3. Up a process
+4. Down a process
+5. Run election algorithm
+6. Exit Program
+Enter your choice:- 4
+Enter the process to down:- 4
+Process P4 is down.
+Ring Algorithm
+1. Create processes
+2. Display processes
+3. Up a process
+4. Down a process
+5. Run election algorithm
+6. Exit Program
+Enter your choice:- 2
+P1 is up.
+P2 is up.
+P3 is up.
+P4 is down.
+P4 is the coordinator
+Ring Algorithm
+1. Create processes
+2. Display processes
+3. Up a process
+4. Down a process
+5. Run election algorithm
+6. Exit Program
+Enter your choice:- 5
+Enter the process which will initiate election:- 4
+Ring Algorithm
+1. Create processes
+2. Display processes
+3. Up a process
+4. Down a process
+5. Run election algorithm
+6. Exit Program
+Enter your choice:- 5
+Enter the process which will initiate election:- 1
+Process P1 sending the following list:- [ 1  ]
+Process P2 sending the following list:- [ 1 2  ]
+Process P3 sending the following list:- [ 1 2 3  ]
+Process P1 has declared P3 as the coordinator
+Ring Algorithm
+1. Create processes
+2. Display processes
+3. Up a process
+4. Down a process
+5. Run election algorithm
+6. Exit Program
+

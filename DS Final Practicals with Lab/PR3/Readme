@@ -1,0 +1,3 @@
+mpicc array.c
+mpirun -np 4 ./a.out
+
